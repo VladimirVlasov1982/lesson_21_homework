@@ -1,5 +1,5 @@
 from entity.abstract_storage import AbstractStorage
-from exeptions import NotEnoughSpace, ProductNotFound, NotEnoughProduct
+from exceptions import NotEnoughSpace, ProductNotFound, NotEnoughProduct
 
 
 class BaseStorage(AbstractStorage):

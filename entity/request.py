@@ -1,4 +1,4 @@
-from exeptions import InvalidRequest
+from exceptions import InvalidRequest
 
 
 class Request:

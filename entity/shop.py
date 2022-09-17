@@ -1,5 +1,5 @@
 from entity.base_storage import BaseStorage
-from exeptions import ToManyDiferentProduct
+from exceptions import ToManyDiferentProduct
 
 
 class Shop(BaseStorage):

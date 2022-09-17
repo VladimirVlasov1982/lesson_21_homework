@@ -1,5 +1,5 @@
 from entity.curier import Curier
-from exeptions import InvalidRequest, DepartureNotKnown, DestinationNotKnown, BaseError
+from exceptions import InvalidRequest, DepartureNotKnown, DestinationNotKnown, BaseError
 from entity.request import Request
 from entity.shop import Shop
 from entity.store import Store

@@ -1,5 +1,5 @@
 from entity.abstract_storage import AbstractStorage
-from exeptions import DepartureNotKnown, DestinationNotKnown, BaseError
+from exceptions import DepartureNotKnown, DestinationNotKnown, BaseError
 from entity.request import Request
 
 
